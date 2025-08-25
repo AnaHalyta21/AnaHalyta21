@@ -23,7 +23,6 @@ na Universidade Estácio de Sá
   <div> 
   <a href="https://https://www.instagram.com/yahunaa_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:anahalyta2022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <img align="right" alt="Ana-gif" src="https://discordapp.com/channels/@me/1109344248404389909/1409573026911092888">
 
  
 </div>
