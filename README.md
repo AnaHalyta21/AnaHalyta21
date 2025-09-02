@@ -66,6 +66,3 @@ na Universidade Estácio de Sá
 
  
 </div>
-
-
-![snake gif](https://github.com/AnaHalyta21/AnaHalyta21/blob/output/github-contribution-grid-snake.svg)
