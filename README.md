@@ -6,20 +6,20 @@
 na Universidade Estácio de Sá
 
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=AnaHalyta21&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  
+    src="https://github-readme-stats.vercel.app/api?username=AnaHalyta21&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
+</p>
 
-  <br clear="all">
-
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img 
+    alt="Quote" 
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+  />
+</p>
 
 ---
 
