@@ -13,9 +13,14 @@ na Universidade Estácio de Sá
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=AnaHalyta21&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  
   />
 
+  
+
 ---
+
+
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
